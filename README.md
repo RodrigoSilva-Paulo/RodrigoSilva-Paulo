@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Rodrigo Silva 👋👋
 
 
-**RodrigoSilva-Paulo/RodrigoSilva-Paulo**
+I'm a Computer Scientist student at Federal University of Alfenas.
 
 - 🌱 I’m currently learning Flutter and English
 - 📫 How to reach me:

@@ -1,16 +1,45 @@
-## Hi there 👋
+# Rodrigo Silva
 
-<!--
-**RodrigoSilva-Paulo/RodrigoSilva-Paulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer · Computer Scientist** | Brazil 🇧🇷
 
-Here are some ideas to get you started:
+I build reliable software and love turning ideas into clean, maintainable products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ✨ Highlights
+
+- **Backend & Mobile**: Java, Python, Flutter, Firebase
+- **Databases**: PostgreSQL, MySQL, SQL
+- **Mindset**: Clean code, clear communication, constant learning
+
+---
+
+## 💻 Tech Stack
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,dart,c,ts,js,flutter,firebase,postgres,mysql,sql&theme=dark" />
+  </a>
+</p>
+
+---
+
+## 🚀 What I'm Working On
+
+- Building practical apps that solve real-world problems
+- Improving performance and developer experience in my projects
+
+---
+
+## 📫 How to Reach Me
+
+<div align="center"> 
+  <a href="mailto:rodrigosilvadepaulo26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rodrigo-silva26/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+---
+
+> "Develop a passion for learning. If you do, you will never cease to grow."
+>
+> — *Anthony J. D'Angelo*
